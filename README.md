@@ -92,3 +92,23 @@ def generate_image(prompt, model):
 generate_image("cat with specs", image_gen_model)
 ```
 
+### Analysis
+
+The project utilizes Stable Diffusion for generating images based on textual prompts. Key components include:
+
+- **Stable Diffusion Model**: Utilizes diffusion models for high-quality image generation.
+- **Transformer Pipeline**: Integrates with Transformers for prompt-based input.
+- **Configuration Flexibility**: Configurable parameters like image size, inference steps, and guidance scale allow customization.
+
+### Results
+
+The generated images exhibit:
+
+- **High Fidelity**: Images are generated with high visual fidelity and resolution.
+- **Prompt Sensitivity**: Different prompts produce varied images, showcasing the model's responsiveness to textual inputs.
+
+
+## Acknowledgments
+
+- Stable Diffusion and Transformers communities for their valuable tools and resources.
+
