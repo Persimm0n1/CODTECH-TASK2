@@ -1,8 +1,12 @@
 # CODTECH-TASK2
-
+## Name: Naman Sharma
+## Company: CODTECH IT SOLUTIONS
+## ID: CT8ML1749
+## Domain: Machine Learning
+## Durations: July to August 2024
 ---
 
-# Object Generation Using Diffusers and Transformers
+# Image Generation Using Diffusers and Transformers
 
 This project demonstrates how to generate images based on prompts using Stable Diffusion and Transformers.
 
